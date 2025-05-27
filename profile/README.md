@@ -11,11 +11,11 @@
 
 🎯 What You Unlock
 
-    🔓 Complete sculpting tools
+🔓 Complete sculpting tools
 
-    🎨 Advanced brush options and textures
+🎨 Advanced brush options and textures
 
-    🛠 No internet or account login required
+🛠 No internet or account login required
 
 🖼 Preview
 
