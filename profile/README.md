@@ -22,10 +22,10 @@
 ![Sculptris Face Sculpt](https://embed-ssl.wistia.com/deliveries/4d05da519376bcb4a381544eaf3b4bd46712f508.webp?image_crop_resized=960x540)  
 *Detailed face sculpting example.*
 
-![Sculptris 3D Model](https://www.shapeways.com/blog/wp-content/uploads/2017/03/featured-sculptris.jpg)  
+![Sculptris 3D Model](https://www.norwegiancreations.com/wp-content/uploads/2017/08/sculptris_face.png)  
 *3D model created with Sculptris.*
 
-![Sculptris Workflow](https://www.norwegiancreations.com/wp-content/uploads/2017/08/sculptris_face.png)  
+![Sculptris Workflow](https://webdesignersdream.wordpress.com/wp-content/uploads/2012/09/creature-modeling-zbrush.png)  
 *Visual workflow in Sculptris.*
 
 
